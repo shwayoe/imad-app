@@ -7,7 +7,7 @@ app.use(morgan('combined'));
 
 
 var articleOne = {
-  tilte: 'Article One | Shwayoe',
+  title: 'Article One | Shwayoe',
   heading: 'Article One',
   date: 'Sep 5, 2016',
   content: `
